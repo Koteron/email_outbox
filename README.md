@@ -55,7 +55,7 @@ source .venv/bin/activate
 ### 4. Поднять базу данных
 
 ```
-docker compose up
+docker compose up -d
 ```
 
 Запустит PostgreSQL, необходимый для работы проекта.
